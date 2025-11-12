@@ -1,4 +1,4 @@
-![Badge](https://github.com/anamehra/anamehra/edit/main/README.md#:~:text=sonic_hackwin25_100925a)
+![Badge](https://github.com/anamehra/anamehra/blob/main/sonic_hackwin25_100925a.png)
 <!--
 **anamehra/anamehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
