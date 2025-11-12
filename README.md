@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![Badge](https://github.com/anamehra/anamehra/edit/main/README.md#:~:text=sonic_hackwin25_100925a)
 <!--
 **anamehra/anamehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
